@@ -1,5 +1,7 @@
 # Brief Introduction to Differentiable Programming
 
+![Introduction to Differentiable Programming splash image](https://andersource.dev/assets/diffprog-intro/optimization.webp)
+
 ## Environment setup
 Create a new Python 3.12 environment or use an existing one, then run:
 
