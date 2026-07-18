@@ -1,0 +1,9 @@
+open3d
+ImageIO
+imageio-ffmpeg
+numpy
+torch
+scikit-image
+matplotlib
+seaborn
+jupyter
